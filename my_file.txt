@@ -1,0 +1,6 @@
+Sales report
+
+Staff_member: "Kaled"
+TotalSells: $2500.00
+Products_sold: 22
+Today: 06/03/2025
